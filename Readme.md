@@ -116,3 +116,7 @@
 ## Linux
 
 - https://geek-university.com/register/ 
+
+## Gradle 
+### Separate folder for AT and UT
+- https://inspeerity.com/blog/separate-gradle-tasks-for-unit-and-integration-tests
